@@ -1,0 +1,7 @@
+openai
+pypdf
+langchain
+faiss-cpu
+langchain-openai
+langchain-text-splitters
+langchain-community
